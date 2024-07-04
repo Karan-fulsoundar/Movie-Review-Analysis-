@@ -3,9 +3,13 @@
 #NLP Project
 
 Analyze the movie reviews whether it is posithive or negative using natural language processing 
-applied 3 Classification algorithms namely 1. Naive bayes Classifier
+
+
+Applied 3 Classification algorithms namely 1. Naive bayes Classifier
                                            2. Support vector Classifier 
                                            3. Random Forest Classifier
+
+                                           
 Got the better accuracy with Random Forest Classifier 
 
 You can use other by just changing the name of object of model which you want to change 
